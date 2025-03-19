@@ -35,10 +35,10 @@ teachers.unshift("sarah");
 console.log(teachers);
 
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
-console.log(teachers.indexOf("lewis"));
+console.log(teachers.indexOf("Lewis"));
 
 // e salvalo nella variabile lewisIndex
-const lewisIndex = teachers.indexOf("lewis");
+const lewisIndex = Lewis
 
 // 8. Verifica se l'array teachers è vuoto
 
